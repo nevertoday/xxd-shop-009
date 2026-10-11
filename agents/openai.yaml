@@ -1,0 +1,7 @@
+interface:
+  display_name: "/xxd-shop-009"
+  short_description: "High-conversion main visuals with one clear information centre."
+  default_prompt: "Use $xxd-shop-009; keep the bundled original brief as the sole aesthetic authority, pass the user's stated task for this image verbatim or leave the judgement to the model, recommend a copy plan so selling points are distilled into the brief's five groups, show price, offers, specs and proof only from supplied facts with no placeholder price, warn before a text-free run, and deliver fresh PNGs in one flat task directory."
+
+policy:
+  allow_implicit_invocation: true
