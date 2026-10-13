@@ -10,9 +10,34 @@
 
 > Original brief: [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English reading translation](references/original-prompt/en.md)
 
+<!-- xxd-samples:start -->
 ## Samples
 
-No samples yet. The commands below are usage examples, not visual evidence.
+<p align="center"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" width="720" alt="Sale listing image"></a><br><sub>Sale listing image · 1:1 · 1254x1254<br>NUANDAO 6 L air fryer · name only · copy plan (Chinese)</sub></p>
+
+### One product, every placement
+
+Same product, same brief: each ratio is a new composition, not a crop.
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" height="200" alt="Sale listing image"></a><br><sub>Sale listing image · 1:1 · 1254x1254<br>NUANDAO 6 L air fryer · name only · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s02-size-3x4-1086x1448.png"><img src="assets/examples/preview/s02-size-3x4-1086x1448.webp" height="200" alt="3:4 listing image"></a><br><sub>3:4 listing image · 3:4 · 1086x1448<br>NUANDAO 6 L air fryer · name only · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s03-size-9x16-941x1672.png"><img src="assets/examples/preview/s03-size-9x16-941x1672.webp" height="200" alt="Splash screen"></a><br><sub>Splash screen · 9:16 · 941x1672<br>NUANDAO 6 L air fryer · name only · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s04-size-16x9-1672x941.png"><img src="assets/examples/preview/s04-size-16x9-1672x941.webp" height="200" alt="Campaign banner"></a><br><sub>Campaign banner · 16:9 · 1672x941<br>NUANDAO 6 L air fryer · name only · copy plan (Chinese)</sub></td></tr>
+</table>
+
+### Listing set: only four tasks had material for this product, so four images
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/p01-set-1x1-1254x1254.png"><img src="assets/examples/preview/p01-set-1x1-1254x1254.webp" height="220" alt="Five-image listing set"></a><br><sub>Five-image listing set · 1:1 · 1254x1254<br>NUANDAO 6 L air fryer · name only · copy plan (Chinese)<br>1 of 4</sub></td><td align="center" valign="top"><a href="assets/examples/p02-set-1x1-1254x1254.png"><img src="assets/examples/preview/p02-set-1x1-1254x1254.webp" height="220" alt="Five-image listing set"></a><br><sub>Five-image listing set · 1:1 · 1254x1254<br>NUANDAO 6 L air fryer · name only · exact copy (Chinese)<br>2 of 4</sub></td><td align="center" valign="top"><a href="assets/examples/p03-set-1x1-1254x1254.png"><img src="assets/examples/preview/p03-set-1x1-1254x1254.webp" height="220" alt="Five-image listing set"></a><br><sub>Five-image listing set · 1:1 · 1254x1254<br>NUANDAO 6 L air fryer · name only · copy plan (Chinese)<br>3 of 4</sub></td><td align="center" valign="top"><a href="assets/examples/p04-set-1x1-1254x1254.png"><img src="assets/examples/preview/p04-set-1x1-1254x1254.webp" height="220" alt="Five-image listing set"></a><br><sub>Five-image listing set · 1:1 · 1254x1254<br>NUANDAO 6 L air fryer · name only · copy plan (Chinese)<br>4 of 4</sub></td></tr>
+</table>
+
+### Price weight follows the product
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/s09-special-1x1-1254x1254.png"><img src="assets/examples/preview/s09-special-1x1-1254x1254.webp" height="220" alt="Sale listing image"></a><br><sub>Sale listing image · 1:1 · 1254x1254<br>CHENGLI Gannan navel oranges · <a href="assets/examples/sources/orange.jpg">source photo</a> · copy plan (Chinese)<br></sub></td><td align="center" valign="top"><a href="assets/examples/s10-special-1x1-1254x1254.png"><img src="assets/examples/preview/s10-special-1x1-1254x1254.webp" height="220" alt="Gift listing image"></a><br><sub>Gift listing image · 1:1 · 1254x1254<br>YUN'AO white-tea gift box · name only · copy plan (Chinese)<br></sub></td><td align="center" valign="top"><a href="assets/examples/s11-special-1x1-1254x1254.png"><img src="assets/examples/preview/s11-special-1x1-1254x1254.webp" height="220" alt="Cross-border listing"></a><br><sub>Cross-border listing · 1:1 · 1254x1254<br>NUANDAO high-speed hair dryer (wine red) · <a href="assets/examples/sources/dryer-red.jpg">source photo</a> · copy plan (English)</sub></td></tr>
+</table>
+
+<sub>All sample products are fictional demo brands, and their prices and specs are demo values. Source photos come from Unsplash; credits and licence are in [assets/examples/README.md](assets/examples/README.md). Each image is one complete generation: not retouched, composited or upscaled, with its real pixel size shown. Images that failed visual review were regenerated and are not shown. Click for full size.</sub>
+
+<!-- xxd-samples:end -->
 
 ## What it solves
 
@@ -27,6 +52,10 @@ Sale-season main images tend to highlight five benefits at once, mix three loud 
 | Mood | Quiet, airy, brand-led | Conversion-led, layered information |
 | Text | Title optional | Text–image integration is the core |
 | Price | Usually absent | Can be a visual anchor |
+
+## Five-image listing set
+
+One image can only have one strongest centre; five images can say five things. With `--set`, it first writes a storyboard that gives each image one task from the brief (core benefit, price, quality, appetite, gifting…) and its share of your copy and facts. You see the storyboard together with image 1; once you approve, the other four follow with the same colour world and headline lettering but a different layout each. The price appears on the price image only. Fix the order yourself with `--focus "core benefit | price | quality | …"`.
 
 ## Getting started
 

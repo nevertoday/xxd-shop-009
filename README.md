@@ -10,9 +10,34 @@
 
 > 原始提示词：[简体中文原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md)
 
+<!-- xxd-samples:start -->
 ## 样张
 
-暂无样张。下文命令只是用法示例，不是视觉证据。
+<p align="center"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" width="720" alt="大促主图"></a><br><sub>大促主图 · 1:1 · 1254x1254<br>暖岛 6L 空气炸锅 · 仅商品名称 · 文案方案（中文）</sub></p>
+
+### 一个商品，适配每个位置
+
+同一商品、同一份原稿，每个比例都重新构图，不是裁切。
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" height="200" alt="大促主图"></a><br><sub>大促主图 · 1:1 · 1254x1254<br>暖岛 6L 空气炸锅 · 仅商品名称 · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/s02-size-3x4-1086x1448.png"><img src="assets/examples/preview/s02-size-3x4-1086x1448.webp" height="200" alt="3:4 主图"></a><br><sub>3:4 主图 · 3:4 · 1086x1448<br>暖岛 6L 空气炸锅 · 仅商品名称 · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/s03-size-9x16-941x1672.png"><img src="assets/examples/preview/s03-size-9x16-941x1672.webp" height="200" alt="开屏"></a><br><sub>开屏 · 9:16 · 941x1672<br>暖岛 6L 空气炸锅 · 仅商品名称 · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/s04-size-16x9-1672x941.png"><img src="assets/examples/preview/s04-size-16x9-1672x941.webp" height="200" alt="活动横幅"></a><br><sub>活动横幅 · 16:9 · 1672x941<br>暖岛 6L 空气炸锅 · 仅商品名称 · 文案方案（中文）</sub></td></tr>
+</table>
+
+### 主图五连（套图）：本商品有材料的任务只有 4 个，所以出 4 张
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/p01-set-1x1-1254x1254.png"><img src="assets/examples/preview/p01-set-1x1-1254x1254.webp" height="220" alt="主图五连"></a><br><sub>主图五连 · 1:1 · 1254x1254<br>暖岛 6L 空气炸锅 · 仅商品名称 · 文案方案（中文）<br>第 1 / 4 张 · 本张重点：突出核心卖点</sub></td><td align="center" valign="top"><a href="assets/examples/p02-set-1x1-1254x1254.png"><img src="assets/examples/preview/p02-set-1x1-1254x1254.webp" height="220" alt="主图五连"></a><br><sub>主图五连 · 1:1 · 1254x1254<br>暖岛 6L 空气炸锅 · 仅商品名称 · 准确文案（中文）<br>第 2 / 4 张 · 本张重点：强化价格优势</sub></td><td align="center" valign="top"><a href="assets/examples/p03-set-1x1-1254x1254.png"><img src="assets/examples/preview/p03-set-1x1-1254x1254.webp" height="220" alt="主图五连"></a><br><sub>主图五连 · 1:1 · 1254x1254<br>暖岛 6L 空气炸锅 · 仅商品名称 · 文案方案（中文）<br>第 3 / 4 张 · 本张重点：品质感</sub></td><td align="center" valign="top"><a href="assets/examples/p04-set-1x1-1254x1254.png"><img src="assets/examples/preview/p04-set-1x1-1254x1254.webp" height="220" alt="主图五连"></a><br><sub>主图五连 · 1:1 · 1254x1254<br>暖岛 6L 空气炸锅 · 仅商品名称 · 文案方案（中文）<br>第 4 / 4 张 · 本张重点：建立品牌感</sub></td></tr>
+</table>
+
+### 价格的分量看商品
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/s09-special-1x1-1254x1254.png"><img src="assets/examples/preview/s09-special-1x1-1254x1254.webp" height="220" alt="大促主图"></a><br><sub>大促主图 · 1:1 · 1254x1254<br>橙里 赣南脐橙 · <a href="assets/examples/sources/orange.jpg">原图</a> · 文案方案（中文）<br>本张重点：强化价格优势</sub></td><td align="center" valign="top"><a href="assets/examples/s10-special-1x1-1254x1254.png"><img src="assets/examples/preview/s10-special-1x1-1254x1254.webp" height="220" alt="礼赠主图"></a><br><sub>礼赠主图 · 1:1 · 1254x1254<br>云坳 白茶礼盒 · 仅商品名称 · 文案方案（中文）<br>本张重点：礼赠价值</sub></td><td align="center" valign="top"><a href="assets/examples/s11-special-1x1-1254x1254.png"><img src="assets/examples/preview/s11-special-1x1-1254x1254.webp" height="220" alt="跨境主图"></a><br><sub>跨境主图 · 1:1 · 1254x1254<br>暖岛 高速吹风机（酒红） · <a href="assets/examples/sources/dryer-red.jpg">原图</a> · 文案方案（英文）</sub></td></tr>
+</table>
+
+<sub>样张商品均为虚构的演示品牌，价格、规格等数字为演示设定；商品原图来自 Unsplash，署名与许可见 [assets/examples/README.md](assets/examples/README.md)。每张都是单次生成的完整画面，未修图、未拼接、未放大，像素照实标注；没通过目视验收的已重出，不放进来。点开看原尺寸。</sub>
+
+<!-- xxd-samples:end -->
 
 ## 它解决什么
 
@@ -39,6 +64,20 @@
 | 气质 | 安静、留白、品牌感 | 转化导向、信息有层级 |
 | 文字 | 标题可有可无 | 图文混排是核心 |
 | 价格 | 通常不出现 | 可以是视觉锚点 |
+
+## 主图五连
+
+一张图只能有一个最强信息中心，五张就能讲五件事。加 `--set` 后，它会先写一份分镜，给每张分一个原稿里的任务：核心卖点、价格优势、品质感、食欲、礼赠……再分好这一张用哪几句文案、哪几条事实。分镜和第 1 张一起给你看，你确认后再画剩下的四张：色彩世界和标题字形跟第 1 张一致，构图张张不同。
+
+- 价格只出现在价格那一张，不会每张都挂一个价签。
+- 想自己定顺序，写 `--focus "核心卖点 | 价格优势 | 品质感 | 食欲 | 礼赠价值"`。
+- 没给价格就没有价格页；没有材料支撑的任务不会硬凑。
+
+```text
+/xxd-shop-009 ./空气炸锅.png --set 5 --size 1:1 \
+  --text plan --copy "到手价 ¥299 原价 ¥459 6L 大容量 一锅出全家菜 可视窗口 免翻面 少油健康" \
+  --facts "到手价 ¥299，原价 ¥459；11.1–11.11；容量 6L" --locale zh-CN
+```
 
 ## 开始使用
 

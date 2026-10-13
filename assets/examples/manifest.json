@@ -1,0 +1,246 @@
+{
+ "skill": "009",
+ "special": {
+  "zh": "价格的分量看商品",
+  "en": "Price weight follows the product"
+ },
+ "set": {
+  "zh": "主图五连（套图）：本商品有材料的任务只有 4 个，所以出 4 张",
+  "en": "Listing set: only four tasks had material for this product, so four images"
+ },
+ "items": [
+  {
+   "id": "p01",
+   "section": "set",
+   "ratio": "1:1",
+   "input": "name",
+   "use": {
+    "zh": "主图五连",
+    "en": "Five-image listing set"
+   },
+   "product": {
+    "zh": "暖岛 6L 空气炸锅",
+    "en": "NUANDAO 6 L air fryer"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "note": {
+    "zh": "第 1 / 4 张 · 本张重点：突出核心卖点",
+    "en": "1 of 4"
+   },
+   "hero": false,
+   "file": "p01-set-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "p02",
+   "section": "set",
+   "ratio": "1:1",
+   "input": "name",
+   "use": {
+    "zh": "主图五连",
+    "en": "Five-image listing set"
+   },
+   "product": {
+    "zh": "暖岛 6L 空气炸锅",
+    "en": "NUANDAO 6 L air fryer"
+   },
+   "text": "exact zh-CN",
+   "visual_review": "passed",
+   "note": {
+    "zh": "第 2 / 4 张 · 本张重点：强化价格优势",
+    "en": "2 of 4"
+   },
+   "hero": false,
+   "file": "p02-set-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "p03",
+   "section": "set",
+   "ratio": "1:1",
+   "input": "name",
+   "use": {
+    "zh": "主图五连",
+    "en": "Five-image listing set"
+   },
+   "product": {
+    "zh": "暖岛 6L 空气炸锅",
+    "en": "NUANDAO 6 L air fryer"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "note": {
+    "zh": "第 3 / 4 张 · 本张重点：品质感",
+    "en": "3 of 4"
+   },
+   "hero": false,
+   "file": "p03-set-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "p04",
+   "section": "set",
+   "ratio": "1:1",
+   "input": "name",
+   "use": {
+    "zh": "主图五连",
+    "en": "Five-image listing set"
+   },
+   "product": {
+    "zh": "暖岛 6L 空气炸锅",
+    "en": "NUANDAO 6 L air fryer"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "note": {
+    "zh": "第 4 / 4 张 · 本张重点：建立品牌感",
+    "en": "4 of 4"
+   },
+   "hero": false,
+   "file": "p04-set-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "s01",
+   "section": "size",
+   "ratio": "1:1",
+   "input": "name",
+   "use": {
+    "zh": "大促主图",
+    "en": "Sale listing image"
+   },
+   "product": {
+    "zh": "暖岛 6L 空气炸锅",
+    "en": "NUANDAO 6 L air fryer"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "hero": true,
+   "file": "s01-size-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "s02",
+   "section": "size",
+   "ratio": "3:4",
+   "input": "name",
+   "use": {
+    "zh": "3:4 主图",
+    "en": "3:4 listing image"
+   },
+   "product": {
+    "zh": "暖岛 6L 空气炸锅",
+    "en": "NUANDAO 6 L air fryer"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s02-size-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "s03",
+   "section": "size",
+   "ratio": "9:16",
+   "input": "name",
+   "use": {
+    "zh": "开屏",
+    "en": "Splash screen"
+   },
+   "product": {
+    "zh": "暖岛 6L 空气炸锅",
+    "en": "NUANDAO 6 L air fryer"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s03-size-9x16-941x1672.png",
+   "pixels": "941x1672"
+  },
+  {
+   "id": "s04",
+   "section": "size",
+   "ratio": "16:9",
+   "input": "name",
+   "use": {
+    "zh": "活动横幅",
+    "en": "Campaign banner"
+   },
+   "product": {
+    "zh": "暖岛 6L 空气炸锅",
+    "en": "NUANDAO 6 L air fryer"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s04-size-16x9-1672x941.png",
+   "pixels": "1672x941"
+  },
+  {
+   "id": "s09",
+   "section": "special",
+   "ratio": "1:1",
+   "input": "orange",
+   "use": {
+    "zh": "大促主图",
+    "en": "Sale listing image"
+   },
+   "product": {
+    "zh": "橙里 赣南脐橙",
+    "en": "CHENGLI Gannan navel oranges"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "note": {
+    "zh": "本张重点：强化价格优势",
+    "en": ""
+   },
+   "hero": false,
+   "file": "s09-special-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "s10",
+   "section": "special",
+   "ratio": "1:1",
+   "input": "name",
+   "use": {
+    "zh": "礼赠主图",
+    "en": "Gift listing image"
+   },
+   "product": {
+    "zh": "云坳 白茶礼盒",
+    "en": "YUN'AO white-tea gift box"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "note": {
+    "zh": "本张重点：礼赠价值",
+    "en": ""
+   },
+   "hero": false,
+   "file": "s10-special-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "s11",
+   "section": "special",
+   "ratio": "1:1",
+   "input": "dryer-red",
+   "use": {
+    "zh": "跨境主图",
+    "en": "Cross-border listing"
+   },
+   "product": {
+    "zh": "暖岛 高速吹风机（酒红）",
+    "en": "NUANDAO high-speed hair dryer (wine red)"
+   },
+   "text": "plan en-US",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s11-special-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  }
+ ]
+}
