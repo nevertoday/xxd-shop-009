@@ -13,7 +13,7 @@
    "id": "c01",
    "section": "category",
    "ratio": "1:1",
-   "input": "name",
+   "input": "product-xunyu-shoe+logo-xunyu",
    "use": {
     "zh": "大促主图",
     "en": "Sale listing image"
@@ -36,7 +36,7 @@
    "id": "c02",
    "section": "category",
    "ratio": "1:1",
-   "input": "name",
+   "input": "product-xxg-diaper+logo-xiaoxiangguo",
    "use": {
     "zh": "大促主图",
     "en": "Sale listing image"
@@ -59,7 +59,7 @@
    "id": "c03",
    "section": "category",
    "ratio": "3:4",
-   "input": "name",
+   "input": "product-mqx-catfood+logo-maoqiuxing",
    "use": {
     "zh": "3:4 主图",
     "en": "3:4 listing image"
@@ -82,7 +82,7 @@
    "id": "c04",
    "section": "category",
    "ratio": "1:1",
-   "input": "name",
+   "input": "product-qy-laundry+logo-qingyu",
    "use": {
     "zh": "大促主图",
     "en": "Sale listing image"
@@ -105,7 +105,7 @@
    "id": "c05",
    "section": "category",
    "ratio": "16:9",
-   "input": "name",
+   "input": "product-nuandao-robot+logo-nuandao",
    "use": {
     "zh": "活动横幅",
     "en": "Campaign banner"
@@ -128,7 +128,7 @@
    "id": "c06",
    "section": "category",
    "ratio": "1:1",
-   "input": "name",
+   "input": "logo-chengli",
    "use": {
     "zh": "大促主图",
     "en": "Sale listing image"
@@ -151,7 +151,7 @@
    "id": "p01",
    "section": "set",
    "ratio": "1:1",
-   "input": "name",
+   "input": "product-nuandao-fryer+logo-nuandao",
    "use": {
     "zh": "主图五连",
     "en": "Five-image listing set"
@@ -178,7 +178,7 @@
    "id": "p02",
    "section": "set",
    "ratio": "1:1",
-   "input": "name",
+   "input": "product-nuandao-fryer+logo-nuandao",
    "use": {
     "zh": "主图五连",
     "en": "Five-image listing set"
@@ -205,7 +205,7 @@
    "id": "p03",
    "section": "set",
    "ratio": "1:1",
-   "input": "name",
+   "input": "product-nuandao-fryer+logo-nuandao",
    "use": {
     "zh": "主图五连",
     "en": "Five-image listing set"
@@ -232,7 +232,7 @@
    "id": "p04",
    "section": "set",
    "ratio": "1:1",
-   "input": "name",
+   "input": "product-nuandao-fryer+logo-nuandao",
    "use": {
     "zh": "主图五连",
     "en": "Five-image listing set"
@@ -259,7 +259,7 @@
    "id": "s01",
    "section": "size",
    "ratio": "1:1",
-   "input": "name",
+   "input": "product-nuandao-fryer+logo-nuandao",
    "use": {
     "zh": "大促主图",
     "en": "Sale listing image"
@@ -282,7 +282,7 @@
    "id": "s02",
    "section": "size",
    "ratio": "3:4",
-   "input": "name",
+   "input": "product-nuandao-fryer+logo-nuandao",
    "use": {
     "zh": "3:4 主图",
     "en": "3:4 listing image"
@@ -305,7 +305,7 @@
    "id": "s03",
    "section": "size",
    "ratio": "9:16",
-   "input": "name",
+   "input": "product-nuandao-fryer+logo-nuandao",
    "use": {
     "zh": "开屏",
     "en": "Splash screen"
@@ -328,7 +328,7 @@
    "id": "s04",
    "section": "size",
    "ratio": "16:9",
-   "input": "name",
+   "input": "product-nuandao-fryer+logo-nuandao",
    "use": {
     "zh": "活动横幅",
     "en": "Campaign banner"
@@ -351,7 +351,7 @@
    "id": "s09",
    "section": "special",
    "ratio": "1:1",
-   "input": "orange",
+   "input": "orange+logo-chengli",
    "use": {
     "zh": "大促主图",
     "en": "Sale listing image"
@@ -378,7 +378,7 @@
    "id": "s10",
    "section": "special",
    "ratio": "1:1",
-   "input": "name",
+   "input": "product-yunao-giftbox+logo-yunao",
    "use": {
     "zh": "礼赠主图",
     "en": "Gift listing image"
@@ -405,7 +405,7 @@
    "id": "s11",
    "section": "special",
    "ratio": "1:1",
-   "input": "dryer-red",
+   "input": "product-nuandao-dryer-red+logo-nuandao",
    "use": {
     "zh": "跨境主图",
     "en": "Cross-border listing"
