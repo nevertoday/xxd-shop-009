@@ -15,6 +15,15 @@
 
 <p align="center"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" width="720" alt="Sale listing image"></a><br><sub>Sale listing image · 1:1 · 1254x1254<br>NUANDAO 6 L air fryer · name only · copy plan (Chinese)</sub></p>
 
+### Categories at a glance
+
+One tile per category; click for full size. The sections below give use, ratio, pixels and input.
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/c01-category-1x1-1254x1254.png"><img src="assets/examples/preview/c01-category-1x1-1254x1254.webp" height="130" alt="Footwear"></a><br><sub><b>Footwear</b><br>Sale listing image</sub></td><td align="center" valign="top"><a href="assets/examples/c02-category-1x1-1254x1254.png"><img src="assets/examples/preview/c02-category-1x1-1254x1254.webp" height="130" alt="Baby"></a><br><sub><b>Baby</b><br>Sale listing image</sub></td><td align="center" valign="top"><a href="assets/examples/c03-category-3x4-1086x1448.png"><img src="assets/examples/preview/c03-category-3x4-1086x1448.webp" height="130" alt="Pets"></a><br><sub><b>Pets</b><br>3:4 listing image</sub></td><td align="center" valign="top"><a href="assets/examples/c04-category-1x1-1254x1254.png"><img src="assets/examples/preview/c04-category-1x1-1254x1254.webp" height="130" alt="Personal & home care"></a><br><sub><b>Personal & home care</b><br>Sale listing image</sub></td><td align="center" valign="top"><a href="assets/examples/c05-category-16x9-1672x941.png"><img src="assets/examples/preview/c05-category-16x9-1672x941.webp" height="130" alt="Appliances"></a><br><sub><b>Appliances</b><br>Campaign banner</sub></td><td align="center" valign="top"><a href="assets/examples/c06-category-1x1-1254x1254.png"><img src="assets/examples/preview/c06-category-1x1-1254x1254.webp" height="130" alt="Fresh produce"></a><br><sub><b>Fresh produce</b><br>Sale listing image</sub></td></tr>
+<tr><td align="center" valign="top"><a href="assets/examples/s10-special-1x1-1254x1254.png"><img src="assets/examples/preview/s10-special-1x1-1254x1254.webp" height="130" alt="Tea"></a><br><sub><b>Tea</b><br>Gift listing image</sub></td></tr>
+</table>
+
 ### One product, every placement
 
 Same product, same brief: each ratio is a new composition, not a crop.
@@ -27,6 +36,13 @@ Same product, same brief: each ratio is a new composition, not a crop.
 
 <table>
 <tr><td align="center" valign="top"><a href="assets/examples/p01-set-1x1-1254x1254.png"><img src="assets/examples/preview/p01-set-1x1-1254x1254.webp" height="220" alt="Five-image listing set"></a><br><sub>Five-image listing set · 1:1 · 1254x1254<br>NUANDAO 6 L air fryer · name only · copy plan (Chinese)<br>1 of 4</sub></td><td align="center" valign="top"><a href="assets/examples/p02-set-1x1-1254x1254.png"><img src="assets/examples/preview/p02-set-1x1-1254x1254.webp" height="220" alt="Five-image listing set"></a><br><sub>Five-image listing set · 1:1 · 1254x1254<br>NUANDAO 6 L air fryer · name only · exact copy (Chinese)<br>2 of 4</sub></td><td align="center" valign="top"><a href="assets/examples/p03-set-1x1-1254x1254.png"><img src="assets/examples/preview/p03-set-1x1-1254x1254.webp" height="220" alt="Five-image listing set"></a><br><sub>Five-image listing set · 1:1 · 1254x1254<br>NUANDAO 6 L air fryer · name only · copy plan (Chinese)<br>3 of 4</sub></td><td align="center" valign="top"><a href="assets/examples/p04-set-1x1-1254x1254.png"><img src="assets/examples/preview/p04-set-1x1-1254x1254.webp" height="220" alt="Five-image listing set"></a><br><sub>Five-image listing set · 1:1 · 1254x1254<br>NUANDAO 6 L air fryer · name only · copy plan (Chinese)<br>4 of 4</sub></td></tr>
+</table>
+
+### Across categories
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/c01-category-1x1-1254x1254.png"><img src="assets/examples/preview/c01-category-1x1-1254x1254.webp" height="200" alt="Sale listing image"></a><br><sub>Sale listing image · 1:1 · 1254x1254<br>XUNYU lightweight running shoes · name only · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/c02-category-1x1-1254x1254.png"><img src="assets/examples/preview/c02-category-1x1-1254x1254.webp" height="200" alt="Sale listing image"></a><br><sub>Sale listing image · 1:1 · 1254x1254<br>XIAOXIANGGUO diapers · name only · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/c03-category-3x4-1086x1448.png"><img src="assets/examples/preview/c03-category-3x4-1086x1448.webp" height="200" alt="3:4 listing image"></a><br><sub>3:4 listing image · 3:4 · 1086x1448<br>MAOQIUXING freeze-dried cat food · name only · copy plan (Chinese)</sub></td></tr>
+<tr><td align="center" valign="top"><a href="assets/examples/c04-category-1x1-1254x1254.png"><img src="assets/examples/preview/c04-category-1x1-1254x1254.webp" height="200" alt="Sale listing image"></a><br><sub>Sale listing image · 1:1 · 1254x1254<br>QINGYU laundry detergent · name only · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/c05-category-16x9-1672x941.png"><img src="assets/examples/preview/c05-category-16x9-1672x941.webp" height="200" alt="Campaign banner"></a><br><sub>Campaign banner · 16:9 · 1672x941<br>NUANDAO robot vacuum · name only · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/c06-category-1x1-1254x1254.png"><img src="assets/examples/preview/c06-category-1x1-1254x1254.webp" height="200" alt="Sale listing image"></a><br><sub>Sale listing image · 1:1 · 1254x1254<br>CHENGLI cherries · name only · copy plan (Chinese)</sub></td></tr>
 </table>
 
 ### Price weight follows the product

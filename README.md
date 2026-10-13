@@ -15,6 +15,15 @@
 
 <p align="center"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" width="720" alt="大促主图"></a><br><sub>大促主图 · 1:1 · 1254x1254<br>暖岛 6L 空气炸锅 · 仅商品名称 · 文案方案（中文）</sub></p>
 
+### 能做哪些品类
+
+每格一个品类，点开看大图；下面各段有用途、比例、像素和输入说明。
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/c01-category-1x1-1254x1254.png"><img src="assets/examples/preview/c01-category-1x1-1254x1254.webp" height="130" alt="鞋靴"></a><br><sub><b>鞋靴</b><br>大促主图</sub></td><td align="center" valign="top"><a href="assets/examples/c02-category-1x1-1254x1254.png"><img src="assets/examples/preview/c02-category-1x1-1254x1254.webp" height="130" alt="母婴"></a><br><sub><b>母婴</b><br>大促主图</sub></td><td align="center" valign="top"><a href="assets/examples/c03-category-3x4-1086x1448.png"><img src="assets/examples/preview/c03-category-3x4-1086x1448.webp" height="130" alt="宠物"></a><br><sub><b>宠物</b><br>3:4 主图</sub></td><td align="center" valign="top"><a href="assets/examples/c04-category-1x1-1254x1254.png"><img src="assets/examples/preview/c04-category-1x1-1254x1254.webp" height="130" alt="个护清洁"></a><br><sub><b>个护清洁</b><br>大促主图</sub></td><td align="center" valign="top"><a href="assets/examples/c05-category-16x9-1672x941.png"><img src="assets/examples/preview/c05-category-16x9-1672x941.webp" height="130" alt="家电"></a><br><sub><b>家电</b><br>活动横幅</sub></td><td align="center" valign="top"><a href="assets/examples/c06-category-1x1-1254x1254.png"><img src="assets/examples/preview/c06-category-1x1-1254x1254.webp" height="130" alt="生鲜"></a><br><sub><b>生鲜</b><br>大促主图</sub></td></tr>
+<tr><td align="center" valign="top"><a href="assets/examples/s10-special-1x1-1254x1254.png"><img src="assets/examples/preview/s10-special-1x1-1254x1254.webp" height="130" alt="茶饮"></a><br><sub><b>茶饮</b><br>礼赠主图</sub></td></tr>
+</table>
+
 ### 一个商品，适配每个位置
 
 同一商品、同一份原稿，每个比例都重新构图，不是裁切。
@@ -27,6 +36,13 @@
 
 <table>
 <tr><td align="center" valign="top"><a href="assets/examples/p01-set-1x1-1254x1254.png"><img src="assets/examples/preview/p01-set-1x1-1254x1254.webp" height="220" alt="主图五连"></a><br><sub>主图五连 · 1:1 · 1254x1254<br>暖岛 6L 空气炸锅 · 仅商品名称 · 文案方案（中文）<br>第 1 / 4 张 · 本张重点：突出核心卖点</sub></td><td align="center" valign="top"><a href="assets/examples/p02-set-1x1-1254x1254.png"><img src="assets/examples/preview/p02-set-1x1-1254x1254.webp" height="220" alt="主图五连"></a><br><sub>主图五连 · 1:1 · 1254x1254<br>暖岛 6L 空气炸锅 · 仅商品名称 · 准确文案（中文）<br>第 2 / 4 张 · 本张重点：强化价格优势</sub></td><td align="center" valign="top"><a href="assets/examples/p03-set-1x1-1254x1254.png"><img src="assets/examples/preview/p03-set-1x1-1254x1254.webp" height="220" alt="主图五连"></a><br><sub>主图五连 · 1:1 · 1254x1254<br>暖岛 6L 空气炸锅 · 仅商品名称 · 文案方案（中文）<br>第 3 / 4 张 · 本张重点：品质感</sub></td><td align="center" valign="top"><a href="assets/examples/p04-set-1x1-1254x1254.png"><img src="assets/examples/preview/p04-set-1x1-1254x1254.webp" height="220" alt="主图五连"></a><br><sub>主图五连 · 1:1 · 1254x1254<br>暖岛 6L 空气炸锅 · 仅商品名称 · 文案方案（中文）<br>第 4 / 4 张 · 本张重点：建立品牌感</sub></td></tr>
+</table>
+
+### 换一个品类也成立
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/c01-category-1x1-1254x1254.png"><img src="assets/examples/preview/c01-category-1x1-1254x1254.webp" height="200" alt="大促主图"></a><br><sub>大促主图 · 1:1 · 1254x1254<br>迅屿 轻跑鞋 · 仅商品名称 · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/c02-category-1x1-1254x1254.png"><img src="assets/examples/preview/c02-category-1x1-1254x1254.webp" height="200" alt="大促主图"></a><br><sub>大促主图 · 1:1 · 1254x1254<br>小橡果 纸尿裤 · 仅商品名称 · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/c03-category-3x4-1086x1448.png"><img src="assets/examples/preview/c03-category-3x4-1086x1448.webp" height="200" alt="3:4 主图"></a><br><sub>3:4 主图 · 3:4 · 1086x1448<br>毛球星 冻干猫粮 · 仅商品名称 · 文案方案（中文）</sub></td></tr>
+<tr><td align="center" valign="top"><a href="assets/examples/c04-category-1x1-1254x1254.png"><img src="assets/examples/preview/c04-category-1x1-1254x1254.webp" height="200" alt="大促主图"></a><br><sub>大促主图 · 1:1 · 1254x1254<br>清屿 洗衣液 · 仅商品名称 · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/c05-category-16x9-1672x941.png"><img src="assets/examples/preview/c05-category-16x9-1672x941.webp" height="200" alt="活动横幅"></a><br><sub>活动横幅 · 16:9 · 1672x941<br>暖岛 扫地机器人 · 仅商品名称 · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/c06-category-1x1-1254x1254.png"><img src="assets/examples/preview/c06-category-1x1-1254x1254.webp" height="200" alt="大促主图"></a><br><sub>大促主图 · 1:1 · 1254x1254<br>橙里 车厘子 · 仅商品名称 · 文案方案（中文）</sub></td></tr>
 </table>
 
 ### 价格的分量看商品

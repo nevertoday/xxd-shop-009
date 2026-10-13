@@ -4,6 +4,12 @@
 
 | 文件 | 用途 | 实际像素 | 输入 | 文字方式 | visual_review |
 |---|---|---|---|---|---|
+| `c01-category-1x1-1254x1254.png` | 大促主图 | 1254x1254 | 仅商品名称 | plan zh-CN | passed |
+| `c02-category-1x1-1254x1254.png` | 大促主图 | 1254x1254 | 仅商品名称 | plan zh-CN | passed |
+| `c03-category-3x4-1086x1448.png` | 3:4 主图 | 1086x1448 | 仅商品名称 | plan zh-CN | passed |
+| `c04-category-1x1-1254x1254.png` | 大促主图 | 1254x1254 | 仅商品名称 | plan zh-CN | passed |
+| `c05-category-16x9-1672x941.png` | 活动横幅 | 1672x941 | 仅商品名称 | plan zh-CN | passed |
+| `c06-category-1x1-1254x1254.png` | 大促主图 | 1254x1254 | 仅商品名称 | plan zh-CN | passed |
 | `p01-set-1x1-1254x1254.png` | 主图五连 | 1254x1254 | 仅商品名称 | plan zh-CN | passed |
 | `p02-set-1x1-1254x1254.png` | 主图五连 | 1254x1254 | 仅商品名称 | exact zh-CN | passed |
 | `p03-set-1x1-1254x1254.png` | 主图五连 | 1254x1254 | 仅商品名称 | plan zh-CN | passed |

@@ -10,6 +10,144 @@
  },
  "items": [
   {
+   "id": "c01",
+   "section": "category",
+   "ratio": "1:1",
+   "input": "name",
+   "use": {
+    "zh": "大促主图",
+    "en": "Sale listing image"
+   },
+   "product": {
+    "zh": "迅屿 轻跑鞋",
+    "en": "XUNYU lightweight running shoes"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "鞋靴",
+    "en": "Footwear"
+   },
+   "hero": false,
+   "file": "c01-category-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "c02",
+   "section": "category",
+   "ratio": "1:1",
+   "input": "name",
+   "use": {
+    "zh": "大促主图",
+    "en": "Sale listing image"
+   },
+   "product": {
+    "zh": "小橡果 纸尿裤",
+    "en": "XIAOXIANGGUO diapers"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "母婴",
+    "en": "Baby"
+   },
+   "hero": false,
+   "file": "c02-category-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "c03",
+   "section": "category",
+   "ratio": "3:4",
+   "input": "name",
+   "use": {
+    "zh": "3:4 主图",
+    "en": "3:4 listing image"
+   },
+   "product": {
+    "zh": "毛球星 冻干猫粮",
+    "en": "MAOQIUXING freeze-dried cat food"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "宠物",
+    "en": "Pets"
+   },
+   "hero": false,
+   "file": "c03-category-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "c04",
+   "section": "category",
+   "ratio": "1:1",
+   "input": "name",
+   "use": {
+    "zh": "大促主图",
+    "en": "Sale listing image"
+   },
+   "product": {
+    "zh": "清屿 洗衣液",
+    "en": "QINGYU laundry detergent"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "个护清洁",
+    "en": "Personal & home care"
+   },
+   "hero": false,
+   "file": "c04-category-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "c05",
+   "section": "category",
+   "ratio": "16:9",
+   "input": "name",
+   "use": {
+    "zh": "活动横幅",
+    "en": "Campaign banner"
+   },
+   "product": {
+    "zh": "暖岛 扫地机器人",
+    "en": "NUANDAO robot vacuum"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "家电",
+    "en": "Appliances"
+   },
+   "hero": false,
+   "file": "c05-category-16x9-1672x941.png",
+   "pixels": "1672x941"
+  },
+  {
+   "id": "c06",
+   "section": "category",
+   "ratio": "1:1",
+   "input": "name",
+   "use": {
+    "zh": "大促主图",
+    "en": "Sale listing image"
+   },
+   "product": {
+    "zh": "橙里 车厘子",
+    "en": "CHENGLI cherries"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "生鲜",
+    "en": "Fresh produce"
+   },
+   "hero": false,
+   "file": "c06-category-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
    "id": "p01",
    "section": "set",
    "ratio": "1:1",
@@ -24,6 +162,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "家电",
+    "en": "Appliances"
+   },
    "note": {
     "zh": "第 1 / 4 张 · 本张重点：突出核心卖点",
     "en": "1 of 4"
@@ -47,6 +189,10 @@
    },
    "text": "exact zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "家电",
+    "en": "Appliances"
+   },
    "note": {
     "zh": "第 2 / 4 张 · 本张重点：强化价格优势",
     "en": "2 of 4"
@@ -70,6 +216,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "家电",
+    "en": "Appliances"
+   },
    "note": {
     "zh": "第 3 / 4 张 · 本张重点：品质感",
     "en": "3 of 4"
@@ -93,6 +243,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "家电",
+    "en": "Appliances"
+   },
    "note": {
     "zh": "第 4 / 4 张 · 本张重点：建立品牌感",
     "en": "4 of 4"
@@ -116,6 +270,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "家电",
+    "en": "Appliances"
+   },
    "hero": true,
    "file": "s01-size-1x1-1254x1254.png",
    "pixels": "1254x1254"
@@ -135,6 +293,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "家电",
+    "en": "Appliances"
+   },
    "hero": false,
    "file": "s02-size-3x4-1086x1448.png",
    "pixels": "1086x1448"
@@ -154,6 +316,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "家电",
+    "en": "Appliances"
+   },
    "hero": false,
    "file": "s03-size-9x16-941x1672.png",
    "pixels": "941x1672"
@@ -173,6 +339,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "家电",
+    "en": "Appliances"
+   },
    "hero": false,
    "file": "s04-size-16x9-1672x941.png",
    "pixels": "1672x941"
@@ -192,6 +362,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "生鲜",
+    "en": "Fresh produce"
+   },
    "note": {
     "zh": "本张重点：强化价格优势",
     "en": ""
@@ -215,6 +389,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "茶饮",
+    "en": "Tea"
+   },
    "note": {
     "zh": "本张重点：礼赠价值",
     "en": ""
@@ -238,6 +416,10 @@
    },
    "text": "plan en-US",
    "visual_review": "passed",
+   "cat": {
+    "zh": "家电",
+    "en": "Appliances"
+   },
    "hero": false,
    "file": "s11-special-1x1-1254x1254.png",
    "pixels": "1254x1254"
