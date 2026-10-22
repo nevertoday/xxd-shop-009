@@ -4,7 +4,7 @@
 
 ### However much information, the first glance always knows where to look
 
-<a href="README.md">简体中文</a> · <strong>English</strong>
+<a href="README.md">简体中文</a> · <strong>English</strong> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
@@ -60,7 +60,7 @@ Same product, same style: each ratio is a new composition, not a crop.
 ### Price weight follows the product
 
 <table>
-<tr><td align="center" valign="top"><a href="assets/examples/s09-special-1x1-1254x1254.png"><img src="assets/examples/preview/s09-special-1x1-1254x1254.webp" height="220" alt="Sale listing image"></a><br><sub>Sale listing image · 1:1 · 1254x1254<br>CHENGLI Gannan navel oranges · <a href="assets/examples/sources/orange.jpg">source photo</a> + <a href="assets/examples/sources/logo-chengli.png">Logo</a> · copy plan (Chinese)<br></sub></td><td align="center" valign="top"><a href="assets/examples/s10-special-1x1-1254x1254.png"><img src="assets/examples/preview/s10-special-1x1-1254x1254.webp" height="220" alt="Gift listing image"></a><br><sub>Gift listing image · 1:1 · 1254x1254<br>YUN'AO white-tea gift box · <a href="assets/examples/sources/product-yunao-giftbox.jpg">product shot</a> + <a href="assets/examples/sources/logo-yunao.png">Logo</a> · copy plan (Chinese)<br></sub></td><td align="center" valign="top"><a href="assets/examples/s11-special-1x1-1254x1254.png"><img src="assets/examples/preview/s11-special-1x1-1254x1254.webp" height="220" alt="Cross-border listing"></a><br><sub>Cross-border listing · 1:1 · 1254x1254<br>NUANDAO high-speed hair dryer (wine red) · <a href="assets/examples/sources/product-nuandao-dryer-red.jpg">product shot</a> + <a href="assets/examples/sources/logo-nuandao.png">Logo</a> · copy plan (English)</sub></td></tr>
+<tr><td align="center" valign="top"><a href="assets/examples/s09-special-1x1-1254x1254.png"><img src="assets/examples/preview/s09-special-1x1-1254x1254.webp" height="220" alt="Sale listing image"></a><br><sub>Sale listing image · 1:1 · 1254x1254<br>CHENGLI Gannan navel oranges · <a href="assets/examples/sources/orange.jpg">source photo</a> + <a href="assets/examples/sources/logo-chengli.png">Logo</a> · copy plan (Chinese)<br>Focus: the price advantage</sub></td><td align="center" valign="top"><a href="assets/examples/s10-special-1x1-1254x1254.png"><img src="assets/examples/preview/s10-special-1x1-1254x1254.webp" height="220" alt="Gift listing image"></a><br><sub>Gift listing image · 1:1 · 1254x1254<br>YUN'AO white-tea gift box · <a href="assets/examples/sources/product-yunao-giftbox.jpg">product shot</a> + <a href="assets/examples/sources/logo-yunao.png">Logo</a> · copy plan (Chinese)<br>Focus: gift value</sub></td><td align="center" valign="top"><a href="assets/examples/s11-special-1x1-1254x1254.png"><img src="assets/examples/preview/s11-special-1x1-1254x1254.webp" height="220" alt="Cross-border listing"></a><br><sub>Cross-border listing · 1:1 · 1254x1254<br>NUANDAO high-speed hair dryer (wine red) · <a href="assets/examples/sources/product-nuandao-dryer-red.jpg">product shot</a> + <a href="assets/examples/sources/logo-nuandao.png">Logo</a> · copy plan (English)</sub></td></tr>
 </table>
 
 <sub>All sample products are fictional demo brands, and their prices and specs are demo values. Demo product shots and logos were made for this project, some on top of Unsplash photos; credits and licence are in [assets/examples/README.md](assets/examples/README.md). Each image is one complete generation: not retouched, composited or upscaled, with its real pixel size shown. Images that failed visual review were regenerated and are not shown. Click for full size.</sub>
@@ -193,7 +193,7 @@ Yes. Give it a folder of product photos: each image is one product, sizes and te
 ```text
 xxd-shop-009/
 ├── SKILL.md
-├── README.md / README.en.md
+├── README.md / README.en.md / README.ja.md / README.ko.md / README.ar.md
 ├── LICENSE
 ├── agents/openai.yaml
 ├── assets/examples/
