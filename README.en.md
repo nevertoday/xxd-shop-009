@@ -8,7 +8,19 @@
 
 </div>
 
-> Original brief: [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English reading translation](references/original-prompt/en.md)
+**Make a sale image that carries a lot of information yet always tells the eye where to look first.**
+One strongest centre per image; price, benefits and specs each in their own group, using only your numbers.
+
+| At a glance | |
+|---|---|
+| **You give** | A product photo or name, your selling points (a paragraph is fine), and facts such as price, list price, dates and specs |
+| **You get** | 1:1 listing images, 3:4 detail-page heroes and more; also a five-image listing set where each image has one job |
+| **The look** | A real product with weight · one strongest centre · grouped, layered text · a few accents that really punch |
+| **Best for** | Sale-season listing images, deal images, gift-box heroes, listing image sets |
+
+> **Once installed, just say:**
+>
+> /xxd-shop-009 Air fryer for Singles' Day: now ¥299, was ¥459, Nov 1–11; benefits are 6 L capacity, viewing window, no flipping
 
 <!-- xxd-samples:start -->
 ## Samples
@@ -26,7 +38,7 @@ One tile per category; click for full size. The sections below give use, ratio, 
 
 ### One product, every placement
 
-Same product, same brief: each ratio is a new composition, not a crop.
+Same product, same style: each ratio is a new composition, not a crop.
 
 <table>
 <tr><td align="center" valign="top"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" height="200" alt="Sale listing image"></a><br><sub>Sale listing image · 1:1 · 1254x1254<br>NUANDAO 6 L air fryer · <a href="assets/examples/sources/product-nuandao-fryer.jpg">product shot</a> + <a href="assets/examples/sources/logo-nuandao.png">Logo</a> · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s02-size-3x4-1086x1448.png"><img src="assets/examples/preview/s02-size-3x4-1086x1448.webp" height="200" alt="3:4 listing image"></a><br><sub>3:4 listing image · 3:4 · 1086x1448<br>NUANDAO 6 L air fryer · <a href="assets/examples/sources/product-nuandao-fryer.jpg">product shot</a> + <a href="assets/examples/sources/logo-nuandao.png">Logo</a> · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s03-size-9x16-941x1672.png"><img src="assets/examples/preview/s03-size-9x16-941x1672.webp" height="200" alt="Splash screen"></a><br><sub>Splash screen · 9:16 · 941x1672<br>NUANDAO 6 L air fryer · <a href="assets/examples/sources/product-nuandao-fryer.jpg">product shot</a> + <a href="assets/examples/sources/logo-nuandao.png">Logo</a> · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s04-size-16x9-1672x941.png"><img src="assets/examples/preview/s04-size-16x9-1672x941.webp" height="200" alt="Campaign banner"></a><br><sub>Campaign banner · 16:9 · 1672x941<br>NUANDAO 6 L air fryer · <a href="assets/examples/sources/product-nuandao-fryer.jpg">product shot</a> + <a href="assets/examples/sources/logo-nuandao.png">Logo</a> · copy plan (Chinese)</sub></td></tr>
@@ -57,13 +69,21 @@ Same product, same brief: each ratio is a new composition, not a crop.
 
 ## What it solves
 
-Sale-season main images tend to highlight five benefits at once, mix three loud colours and jam price into selling points until shoppers cannot find an entry point.
+Sale images tend to highlight five benefits at once, mix three loud colours and jam the price into the selling points until shoppers cannot find a way in.
 
-**Shop 009** organises in the brief's order: decide this image's one job (brand, core benefit, price, appetite, freshness, quality or gifting) so there is a single strongest centre; keep a real product with weight and clean surroundings; protect the product's colour first and keep only a few attacking accents; group text into identity, core benefit, secondary benefits, price-and-purchase and proof; and size the price to the product — an anchor for high-frequency promotions, quiet for premium gifts.
+**Shop 009** subtracts and organises:
+
+1. **Decide this image's one job:** brand, core benefit, price, appetite, freshness, quality or gifting. One strongest centre per image.
+2. **A real product with weight,** clean surroundings, no decoration across its outline.
+3. **Protect the product's colour first,** then set the scene; keep only a few accents that really punch.
+4. **Group the text:** title, core benefit, secondary benefits, price and purchase, origin and specs — separated by size, space and position, not more colours.
+5. **Size the price to the product:** an anchor for high-frequency promotions, quiet for premium gifts.
+
+> Tip: to make the price outrank the benefits, put the price first in the selling copy you give. The first line is the most likely to become the headline.
 
 ## 001 or 009?
 
-| | 001 Premium key visual | 009 High-conversion visual |
+| | [001 Premium key visual](https://github.com/nevertoday/xxd-shop-001) | 009 High-conversion visual |
 |---|---|---|
 | Mood | Quiet, airy, brand-led | Conversion-led, layered information |
 | Text | Title optional | Text–image integration is the core |
@@ -71,14 +91,50 @@ Sale-season main images tend to highlight five benefits at once, mix three loud 
 
 ## Five-image listing set
 
-One image can only have one strongest centre; five images can say five things. With `--set`, it first writes a storyboard that gives each image one task from the brief (core benefit, price, quality, appetite, gifting…) and its share of your copy and facts. You see the storyboard together with image 1; once you approve, the other four follow with the same colour world and headline lettering but a different layout each. The price appears on the price image only. Fix the order yourself with `--focus "core benefit | price | quality | …"`.
+One image has one strongest centre, so five images can say five things. Ask for a set and it writes a storyboard that gives each image one job — core benefit, price, quality, appetite, gifting… — and its share of your copy and facts. The colour world and headline lettering match image 1; every layout is different.
 
-## Getting started
+- The price appears on the price image only, not as a tag on every image.
+- To set the order yourself, just say it, e.g. "core benefit, price, quality, appetite, gifting".
+- No price, no price image; a job without supporting material is dropped rather than padded.
+
+## What to prepare
+
+- **A product photo or name** (required).
+- **Selling points** (recommended): a paragraph is enough; it extracts and groups them.
+- **Price, list price, dates, specs, origin, ingredients** (optional): without a price there is no price group and no placeholder price.
+
+## How to use it
+
+### Step 1: install (once)
 
 ```bash
 git clone https://github.com/nevertoday/xxd-shop-009.git
+mkdir -p ~/.claude/skills
 ln -s "$(pwd)/xxd-shop-009" ~/.claude/skills/xxd-shop-009
 ```
+
+Codex users link the same folder into `~/.codex/skills/xxd-shop-009`. Restart your AI assistant's session after installing.
+
+### Step 2: say what you want in plain words
+
+```text
+/xxd-shop-009 Air fryer for Singles' Day: now ¥299, was ¥459, Nov 1–11; benefits are 6 L capacity, viewing window, no flipping
+/xxd-shop-009 Tea gift box, a Mid-Autumn detail-page hero focused on gifting: Wuyi rock-tea region, 250 g × 2 tins
+/xxd-shop-009 Make a five-image listing set for the air fryer
+```
+
+No flags to memorise. Anything you leave open, such as sizes or how many, is asked in one go, and next time you can reuse your previous settings.
+
+### Step 3: what it does next
+
+1. Reads your product photo and description and asks only what is still open; sizes are recommended from the use, with pixel dimensions.
+2. For a set, you first see the storyboard and image 1; the rest follow after you confirm.
+3. Every size is composed afresh, never cropped from another image.
+4. Checks each image before delivery: is the product unchanged, is the text spelled right, are there numbers you never gave? Anything that fails is reported and redone.
+5. Saves PNGs to a new task folder under `~/Desktop/xxd/xxd-shop-009/` and gives you the path.
+
+<details>
+<summary><strong>Advanced: command flags (for later)</strong></summary>
 
 ```text
 /xxd-shop-009 ./air-fryer.png --use "listing image" --focus "lead with the price advantage" --size 1:1 \
@@ -86,17 +142,53 @@ ln -s "$(pwd)/xxd-shop-009" ~/.claude/skills/xxd-shop-009
   --facts "Now ¥299, was ¥459; Nov 1–11; 6 L" --locale en-US
 ```
 
-To make the price outrank the selling points, put it first in the copy plan. The brief gives the headline real visual weight, and the first phrase of a plan tends to become that headline; with `--focus` alone the price usually lands as a strong second centre.
+To make the price outrank the selling points, put it first in the copy plan. The style gives the headline real visual weight, and the first phrase of a plan tends to become that headline; with `--focus` alone the price usually lands as a strong second centre.
 
-Key flags: `--focus` (this image's job), `--use`, `--text plan` + `--copy`, `--facts`, `--size`, `--count`, `--locale`. Full list in the [family runtime](references/shop-runtime.md).
+Key flags: `--focus` (this image's job), `--use`, `--text plan` + `--copy`, `--facts`, `--size`, `--count`, `--locale`. Full list in the [runtime reference](references/shop-runtime.md).
 
-## Boundaries
+</details>
 
-- Every number on the image — price, discount, dates, specs — traces to your facts; without a price there is no price group and no placeholder.
-- The original brief is kept verbatim and is the only aesthetic authority.
+## FAQ
+
+**Will the price appear on every image?**
+
+No. In a set the price is on the price image only; on a single image its weight follows the product, so gifts are never hard-sold.
+
+**What do I need?**
+
+Three things: ① an AI assistant that supports Skills, such as Claude Code or Codex; ② an image-capable model — your assistant's built-in image generation, or a model provider configured in Codex that generates images through the Responses API (GPT Image 2 by default); ③ Python 3.11+ with Pillow (`pip install pillow`).
+
+**Does it cost anything? Can I use it commercially?**
+
+The Skill is free to download; image generation is billed to your own model account. The project uses the PolyForm Noncommercial licence: personal learning, research and testing are fine; running a shop, client work or other commercial use needs the author's written permission first — see "License" at the end.
+
+**How large are the images?**
+
+You can ask for a ratio or exact pixels. The real size is whatever the model returns — never secretly upscaled — and the file name states the true pixels.
+
+**Will the text in the image have typos?**
+
+AI images occasionally misspell words or add small marks such as ® next to a brand name. Every image is zoomed and checked before delivery, and any failure is redone; all samples on this page passed that check.
+
+**Will it invent prices or sales numbers?**
+
+No. Anything that looks like a fact — price, specs, origin, sales, awards, certifications — comes only from what you provide or text clearly readable on the product; otherwise it is left out, with no "¥XX" placeholder.
+
+**Can it handle many products at once?**
+
+Yes. Give it a folder of product photos: each image is one product, sizes and text are asked once, and no product's facts or copy leak into another's.
+
+## Principles
+
+- **The style stays true:** behind this Skill is a mature commercial design prompt ([original brief](references/original-prompt/zh-CN.md) · [English reading translation](references/original-prompt/en.md)). The Skill never rewrites it or adds its own colours or art direction; it only hands the model your product, sizes, text and facts.
+- **The product is not redesigned:** with a product photo, shape, colour, packaging text and logo follow the photo.
+- **Only your facts,** and each product stands alone — nothing borrowed from other products, earlier results or samples.
+- **Real PNG bitmaps,** never SVG or code drawings passed off as images; every run creates a new task folder.
+- Every number on the image — price, discount, dates, specs — traces to what you provided.
 
 <!-- xxd-shop-tail -->
-## Project structure
+<details>
+<summary><strong>Project structure (for developers)</strong></summary>
 
 ```text
 xxd-shop-009/
@@ -117,6 +209,8 @@ xxd-shop-009/
         ├── zh-CN.md
         └── en.md
 ```
+
+</details>
 
 <!-- xxd-readme-ads:start -->
 ## About XXD
