@@ -212,6 +212,7 @@ xxd-shop-009/
 ├── assets/examples/
 ├── scripts/
 │   ├── configured_imagegen.py
+│   ├── clean_marks.py
 │   └── shop_preferences.py
 └── references/
     ├── shop-runtime.md
